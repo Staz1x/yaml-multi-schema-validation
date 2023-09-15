@@ -1,9 +1,8 @@
 car:
-  manufacturer:
-    name: volvo
-    model: V70
-    year: 2000
-    reg: ABC123
-    attributes:
-      - Elhissar
-      - TV
+  manufacturer: volvo
+  model: V70
+  year: 2000
+  attributes:
+    - Elhissar
+    - TV
+  reg: ABC123

@@ -1,10 +1,13 @@
 computer:
   cpu:
     manufacturer: yes
-    something: else
+    cores: 8
+    frequency: 24
   memory:
     manufacturer: also yes
-    something: more
+    size: 10
+    type: SSD
   disk:
-    manufacturer: mhm
-    attribute: something
+    manufacturer: yep
+    size: 4
+    type: yes
