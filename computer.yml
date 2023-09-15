@@ -1,0 +1,10 @@
+computer:
+  cpu:
+    manufacturer: yes
+    something: else
+  memory:
+    manufacturer: also yes
+    something: more
+  disk:
+    manufacturer: mhm
+    attribute: something

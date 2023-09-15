@@ -1,0 +1,10 @@
+person:
+  name:
+    - firstname
+    - lastname
+  age: 40
+  class: maths
+  start_year: 2022
+  hobbies:
+    - beer
+    - games

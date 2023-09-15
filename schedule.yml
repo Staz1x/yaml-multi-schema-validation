@@ -1,0 +1,10 @@
+schedule:
+  year: 2023
+  program: computer
+  lessons:
+    - date: 01-01-23
+      startTime: 09:00
+      endTime: 10:30
+    - date: 01-01-23
+      startTime: 11:00
+      endTime: 12:00
