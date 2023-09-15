@@ -6,7 +6,7 @@ car:
     type: string
     required: true
   year:
-    type: string
+    type: number
     required: true
     length:
       min: 4
