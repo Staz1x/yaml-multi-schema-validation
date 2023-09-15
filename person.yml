@@ -1,7 +1,7 @@
 person:
   name:
-    - first_name: stig
-    - last_name: svensson
+    first_name: stig
+    last_name: svensson
   age: 40
   class: maths
   start_year: 2022
