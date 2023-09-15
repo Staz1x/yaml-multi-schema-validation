@@ -1,6 +1,6 @@
 schedule:
   year:
-    type: string
+    type: number
     required: true
     length:
       min: 4

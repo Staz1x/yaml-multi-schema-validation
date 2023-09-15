@@ -3,10 +3,6 @@ schedule:
   program: java
   lessons:
     - date: "01-01-23"
-      startTime: 09:00
-      endTime: 10:30
       description: maths
     - date: "01-01-23"
-      startTime: 11:00
-      endTime: 12:00
       description: C++
